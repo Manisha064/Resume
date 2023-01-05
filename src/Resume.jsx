@@ -132,7 +132,8 @@ const Resume = () => {
                     </div>
                     <div className="box">
                         <h4>React</h4>
-                        <div className="percent1"><div style={{width:"80%"}}></div></div>                        
+                        <div className="percent1"><div style={{width:"80%"}}></div></div> 
+                                               {/* Some changens has done  */}
                     </div>
                 </div>
 
